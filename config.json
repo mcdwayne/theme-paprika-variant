@@ -1,7 +1,7 @@
 {
-  "name": "Paprika",
-  "author": "Mautic team",
-  "authorUrl": "https://mautic.org",
+  "name": "Paprika Variant",
+  "author": "Dwayne McDaniel",
+  "authorUrl": "https://github.com/mcdwayne",
   "builder": ["grapesjsbuilder"],
   "features": [
     "email"

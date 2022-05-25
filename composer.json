@@ -1,10 +1,10 @@
 {
-  "name": "mautic/theme-paprika",
-  "description": "Mautic Paprika Theme",
+  "name": "mcdwayne/theme-paprika-variant",
+  "description": "Mautic Paprika Theme Variant",
   "type": "mautic-theme",
-  "keywords": ["mautic","theme"],
+  "keywords": ["mautic","example","theme"],
   "extra": {
-    "install-directory-name": "paprika"
+    "install-directory-name": "paprika-variant"
   },
   "minimum-stability": "dev",
   "require": {
